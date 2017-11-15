@@ -18,7 +18,7 @@ EDITAVEIS_DIR = editaveis
 EDITAVEIS_SOURCES = abreviaturas.tex abstract.tex \
 					anexos.tex apendices.tex \
 					epigrafe.tex fundamentacao.tex informacoes.tex introducao.tex\
-					resumo.tex simbolos.tex textoepostexto.tex\
+					resumo.tex simbolos.tex \
 					materiaisemetodos.tex consideracoespreliminares.tex
 
 
